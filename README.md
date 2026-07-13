@@ -8,6 +8,5 @@ You can access my professional resume here:
 
 Linked Repositories To My Portfolios  
 ------------------------------------
-[CVAT Data Annotation Portfolio] https://github.com/garydahnke/cvat-data-annotation-portfolio/blob/main/README.md
-
-[Functional Exercise Impact Analysis] https://github.com/garydahnke/functional-exercise-impact-analysis/blob/main/README.md
+[CVAT Data Annotation Portfolio](https://github.com/garydahnke/cvat-data-annotation-portfolio/blob/main/README.md)
+[Functional Exercise Impact Analysis](https://github.com/garydahnke/functional-exercise-impact-analysis/blob/main/README.md)
