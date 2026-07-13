@@ -6,6 +6,10 @@ This repository serves as my professional AI portfolio, containing my resume, ce
 You can access my professional resume here:
 [View My Resume](https://github.com/garydahnke/ai-professional/blob/main/resume/resume.pdf)
 
+### Certifications
+You can view my certifications here:
+[View My Badges and Certifications](https://github.com/garydahnke/ai-professional/blob/main/certifications/badges-and-certifications.pdf)
+
 ### My Portfolios  
 [CVAT Data Annotation Portfolio](https://github.com/garydahnke/cvat-data-annotation-portfolio/blob/main/README.md)  
 [Functional Exercise Impact Analysis](https://github.com/garydahnke/functional-exercise-impact-analysis/blob/main/README.md)
